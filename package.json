@@ -1,0 +1,7 @@
+{
+  "name": "prototype-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Turn a PM user story into a live UI mockup with a visible rationale, powered by Groq's free API. Requires login (Supabase Auth + Postgres)."
+}
